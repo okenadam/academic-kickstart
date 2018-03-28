@@ -26,4 +26,5 @@ math = false
 image = "headers/netheader.jpg"
 caption = ""
 
-+++ The applications of machine learning has been rapidly increasing recently. My goal is to apply deep learning to the field of structural biology, specifically to the analysis of cryo-EM images. 
++++ 
+The applications of machine learning has been rapidly increasing recently. My goal is to apply deep learning to the field of structural biology, specifically to the analysis of cryo-EM images. 

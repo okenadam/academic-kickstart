@@ -27,4 +27,4 @@ caption = ""
 
 +++
 
-More to come soon.
+My lab is conducting strucutral studies for a number of different proteins. We are looking at human mismatch repair proteins MSH2-MSH6, MLH1-PMS2, and the combined structure of MSH2-MSH6 + MLH1-PMS2. Additionally, we are working on the G-protein receptor CB-1. 
