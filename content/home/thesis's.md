@@ -15,5 +15,7 @@ weight = 60
 
 +++
 
-Two thesis's
-(see our <a href="files/bbmb.pdf" target="\_blank">SHIFT paper</a> for the details). 
+Two thesis's:
+Download my BBMB thesis <a href="file/bbmb.pdf" target="\_blank">here</a> for the details. 
+
+Download my math thesis <a href="file/math.pdf" target="\_blank">here</a> for the details.
