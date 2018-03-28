@@ -26,6 +26,4 @@ math = false
 image = "headers/netheader.jpg"
 caption = ""
 
-+++
-
-The computerization of biology in recent decades has fundamentally changed the way knowledge about life can be acquired and applied. Technological advances are ever-heightening the predictive ability of biological science, while at the same time inundating our existing workflow channels. Wielding an integrative, machine-driven toolset, my goal is to part this sea of data and find sunken material of biological significance. In particular, I am interested in the development and advancement of deep learning applications in medical imaging and electron microscopy data analysis.
++++ The applications of machine learning has been rapidly increasing recently. My goal is to apply deep learning to the field of structural biology, specifically to the analysis of cryo-EM images. 
