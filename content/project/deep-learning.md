@@ -6,10 +6,10 @@ date = "2016-04-27"
 title = "Deep Learning"
 
 # Project summary to display on homepage.
-summary = "Development and advancement of deep learning applications in medical imaging and electron microscopy data analysis."
+summary = "Development of deep learning applications in electron microscopy data analysis."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "netimage.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "headers/netheader.jpg"
 caption = ""
 
 +++
