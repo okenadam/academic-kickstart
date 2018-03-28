@@ -3,8 +3,8 @@ date = 2017-03-14T00:00:00
 # Schedule page publish date.
 
 title = "BBMB Senior Seminar Talk"
-time_start = 2017-05-1T11:00:00
-time_end = 2017-05-1T12:00:00
+time_start = 2017-05-01T11:00:00
+time_end = 2017-05-01T12:00:00
 abstract = ""
 abstract_short = "A Structural Study of Fumarase C from E.coli"
 event = "Seminar"
