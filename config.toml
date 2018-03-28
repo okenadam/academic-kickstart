@@ -243,10 +243,7 @@ defaultContentLanguageInSubdir = false
   url = "#publications"
   weight = 2
 
-[[menu.main]]
-  name = "Kayaking"
-  url = "#kayaking"
-  weight = 5
+
 
 [[menu.main]]
   name = "Projects"
