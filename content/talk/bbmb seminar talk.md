@@ -38,3 +38,5 @@ image = "headers/SHIFT-header.png"
 #caption = "My caption :smile:"
 
 +++
+
+Link to the <a href="file/bbmbpresent.pdf" target="\_blank">slides</a> 

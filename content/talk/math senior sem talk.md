@@ -2,12 +2,12 @@
 date = 2017-03-14T00:00:00  
 # Schedule page publish date.
 
-title = "Math Senoir Seminar Talk"
+title = "Classifying Cats and Dogs - An Introduction to Neural Networks and Auto-Encoders"
 time_start = 2017-05-05T11:00:00
 time_end = 2018-05-05T12:00:00
 abstract = ""
 abstract_short = "An Introduction To and Applications of Neural Networks"
-event = "Seminar"
+event = "Math Senior Seminar"
 #event_url = ""
 location = "Whitman College Walla Walla, WA"
 
@@ -38,3 +38,4 @@ image = "headers/SHIFT-header.png"
 #caption = "My caption :smile:"
 
 +++
+ Link to the <a href="file/mathpresent.pdf" target="\_blank">slides</a> 
