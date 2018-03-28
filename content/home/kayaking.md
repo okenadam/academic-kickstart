@@ -22,6 +22,4 @@ I have numerous certifications from the British Canoeing and the American Canoe 
 Please email me for further information about my paddling experience.
 
 
-Download my kayaking trip log <a href="file/log.pdf" target="\_blank">here</a>  
-
-Download my kayaking resume log <a href="file/kayaking.pdf" target="\_blank">here</a>  
+Download my kayaking trip log <a href="file/log.pdf" target="\_blank">here</a> and/or my resume <a href="file/kayaking.pdf" target="\_blank">here</a>  
