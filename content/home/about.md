@@ -10,31 +10,22 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
+    "Structural Biology",
+    "Machine Learning", 
+	"Outdoor Leadership"
+	]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "BA in Mathematics and Biochemistry, Biophysics and Molecular Biology (BBMB)"
+  institution = "Whitman College"
+  year = 2017
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+#copy and paste for adding more educations stuff
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Adam Oken is currently a Research Assistant II in the Biochemistry and Molecular Biology Department at OHSU. He works in a structural biology lab working on both structure determination of proteins as well as methodology for post-image processing of cryo-em data. In his other pursuits, he is a well qualified sea kayak and whitewater kayak instrucutor with years of professional guiding experience. He gradutated from Whitman College in Walla Walla, WA with a BA in mathematics and Biochemistry, Biophysics, and Molecular Biology. While there, he focused on two research interests; machine learning and structural biology. 
+ 
