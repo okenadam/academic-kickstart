@@ -15,15 +15,15 @@ weight = 60
 
 +++
 
-A Structural Study of Fumarase C from E.coli
+<a href="file/bbmb.pdf" target="\_blank">A Structural Study of Fumarase C from E.coli</a>  
+
 
 Fumarase C (fumC) catalyzes the interconversion of fumarate to L-malate as part of the metabolic Krebs’s cycle. Previous studies of fumC from Eschericha coli have noted two dicarboyxlate active sites. Here, we have attempted to continue the structural analyzes of fumarase C in order to further elucidate the activity and confirm the key active site residues in the proposed mechanism.
 
-Download my BBMB thesis <a href="file/bbmb.pdf" target="\_blank">here</a> for the details. 
 
 
-An Introduction To and Applications of Neural Networks
+<a href="file/math.pdf" target="\_blank">An Introduction To and Applications of Neural Networks</a>
+
 
 Neural networks are powerful mathematical tools used for many purposes including data classification, selfdriving cars, and stock market predictions. In this paper, we explore the theory and background of neural networks before progressing to different applications of feed-forward and auto-encoder neural networks. From this, we build the foundations for the growing field of deep learning.
 
-Download my math thesis <a href="file/math.pdf" target="\_blank">here</a> for the details.
