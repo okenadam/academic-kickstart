@@ -18,7 +18,7 @@ weight = 60
 <a href="file/bbmb.pdf" target="\_blank">A Structural Study of Fumarase C from E.coli</a>  
 
 
-Fumarase C (fumC) catalyzes the interconversion of fumarate to L-malate as part of the metabolic Krebs’s cycle. Previous studies of fumC from Eschericha coli have noted two dicarboyxlate active sites. Here, we have attempted to continue the structural analyzes of fumarase C in order to further elucidate the activity and confirm the key active site residues in the proposed mechanism.
+Fumarase C (fumC) catalyzes the interconversion of fumarate to L-malate as part of the metabolic citric acid cycle. Previous studies of fumC from Eschericha coli have noted two dicarboyxlate active sites. Here, we have attempted to continue the structural analyzes of fumarase C in order to further elucidate the activity and confirm the key active site residues in the proposed mechanism.
 
 
 

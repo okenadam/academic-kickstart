@@ -14,4 +14,14 @@ subtitle = ""
 weight = 65
 
 +++
-kayaking stuff
+
+Kayaking is one of my favorite passions in life, whether it be leading a guided trip, exploring the Oregon coastline, or challenging myself on whitewater rivers with friends. I particularly enjoy sea kayak surfing and rock gardening on the coast as well as boofing holes on the rivers of the Pacific Northwest. 
+
+I have numerous certifications from the British Canoeing and the American Canoe Association which make me a very qualified coach and leader. The important certifications include: BCU coach level 1, BCU 3* sea award, ACA level 3 whitewater instructor, and swift water rescue. 
+
+Please email me for further information about my paddling experience.
+
+
+Download my kayaking trip log <a href="file/log.pdf" target="\_blank">here</a>  
+
+Download my kayaking resume log <a href="file/kayaking.pdf" target="\_blank">here</a>  
