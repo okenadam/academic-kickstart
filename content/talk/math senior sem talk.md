@@ -2,11 +2,11 @@
 date = 2017-03-14T00:00:00  
 # Schedule page publish date.
 
-title = "BBMB Senior Seminar Talk"
-time_start = 2017-05-1T11:00:00
-time_end = 2017-05-1T12:00:00
+title = "Math Senoir Seminar Talk"
+time_start = 2017-05-5T11:00:00
+time_end = 2018-05-5T12:00:00
 abstract = ""
-abstract_short = "A Structural Study of Fumarase C from E.coli"
+abstract_short = "An Introduction To and Applications of Neural Networks"
 event = "Seminar"
 #event_url = ""
 location = "Whitman College Walla Walla, WA"
@@ -21,7 +21,7 @@ projects = [""]
 
 # Links (optional).
 url_pdf = ""
-#url_slides = "file/bbmbpresent.pdf"
+#url_slides = "file/mathpresent.pdf"
 #url_video = ""
 #url_code = ""
 
