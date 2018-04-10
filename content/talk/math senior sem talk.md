@@ -19,9 +19,9 @@ selected = false
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 projects = [""]
 
-# Links (optional).
+# Links #(optional).
 url_pdf = ""
-#url_slides = "file/mathpresent.pdf"
+#url_slides = ""
 #url_video = ""
 #url_code = ""
 
@@ -38,4 +38,4 @@ image = "headers/SHIFT-header.png"
 #caption = "My caption :smile:"
 
 +++
- Link to the <a href="file/mathpresent.pdf" target="\_blank">slides</a> 
+ This was a presentation of my Math thesis. For more info on the thesis project go back to the Thesis's tab. The link to the slides is <a href="file/mathpresent.pdf" target="\_blank">here</a> 
